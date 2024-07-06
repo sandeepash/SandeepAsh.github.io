@@ -1,0 +1,13 @@
+portfolio website notes 
+
+
+Explanation of Closing Tags:
+First Project <div>: Ends with </div> after the closing tag for </div class="text mt-3 float-right d-block">.
+
+Second Project <div>: Ends with </div> after the closing tag for </div class="text mt-3 float-right d-block">.
+
+Third Project <div>: Ends with </div> after the closing tag for </div class="text mt-3 float-right d-block">.
+
+Fourth Project <div>: Ends with </div> after the closing tag for </div class="text mt-3 float-right d-block">.
+
+Fifth Project <div>: Ends with </div> after the closing tag for `</div class did created
